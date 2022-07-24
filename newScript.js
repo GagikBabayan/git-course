@@ -4,3 +4,5 @@ arr.forEach((value, index) => {
   console.log(value);
   console.log(index);
 });
+
+console.log("Javascript");
